@@ -6,3 +6,6 @@ why do I realy need to use git?
 
 Section 2:
 index.html
+
+Section 3
+mycss is needed
